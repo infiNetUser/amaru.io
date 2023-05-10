@@ -1,1 +1,1 @@
-# amaru.io
+# amaru
